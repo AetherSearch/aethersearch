@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=AetherSearch&style=flat-square&color=blue" alt=""/>
 </div>
 
-I am a Full Stack Developer or Software Developer
+About Me:
 - :telescope: I am Full Stack Dev or Software Dev, skilled with frontend, backend and mobile development. If not enough, trade in the hobbies.
 
 - :seedling: Mathematics in programming and Researching.
