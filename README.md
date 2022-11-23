@@ -6,7 +6,7 @@
 
 
 <div id="badges">
-   <a href="[https://www.ethernmyth.cf](https://ethernmyth.cf/)">
+   <a href="https://ethernmyth.cf">
     <img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
   </a>
 </div>
@@ -22,7 +22,7 @@ I am a Full Stack Developer or Software Developer
 
 - :zap: In my free time, I am learning a new programming languange
 
-- :mailbox:How to reach me. Visit my website and send an email on the contact section: [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>][(https://www.ethernmyth.cf)]
+- :mailbox:How to reach me. Visit my website and send an email on the contact section: [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>](https://ethernmyth.cf)
 
 ---
 
