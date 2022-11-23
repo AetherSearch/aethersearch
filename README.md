@@ -72,5 +72,5 @@ I am a Full Stack Developer or Software Developer <img src="https://media.giphy.
 
 ### :fire: Stats :
 
-[![Top stats](https://github-readme-stats.vercel.app/api?username=AetherSearch&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top stats](https://github-readme-stats.vercel.app/api?username=AetherSearch&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
