@@ -15,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=AetherSearch&style=flat-square&color=blue" alt=""/>
 </div>
 
+## Soon a new website will be coming to this branch. All premium content will be covered there. Keep the look out.
+
 About Me:
 - :telescope: I am Full Stack Dev or Software Dev, skilled with frontend, backend and mobile development. If not enough, trade in the hobbies.
 
