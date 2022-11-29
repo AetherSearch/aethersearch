@@ -17,9 +17,8 @@
 
 
 About Me:
-- :telescope: I am Full Stack Dev or Software Dev, skilled with frontend, backend and mobile development. If not enough, trade in the hobbies.
+- :telescope: Full Stack Developer.
 - :zap: In my free time, I am learning a new programming languange
-
 
 ---
 
