@@ -6,7 +6,7 @@
 
 
 <div id="badges">
-   <a href="https://ethernmyth.cf">
+   <a href="https://aethersearch.cf">
     <img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
   </a>
 </div>
@@ -15,16 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=AetherSearch&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Soon a new website will be coming to this branch. All premium content will be covered there. Keep the look out.
 
 About Me:
 - :telescope: I am Full Stack Dev or Software Dev, skilled with frontend, backend and mobile development. If not enough, trade in the hobbies.
-
-- :seedling: Mathematics in programming and Researching.
-
 - :zap: In my free time, I am learning a new programming languange
 
-- :mailbox:How to reach me. Visit my website and send an email on the contact section: [<img src="https://img.shields.io/badge/website-up?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>](https://ethernmyth.cf)
 
 ---
 
